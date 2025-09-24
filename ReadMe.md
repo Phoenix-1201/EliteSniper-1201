@@ -1,48 +1,114 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Juri+Miyazawa&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Juri+Miyazawa&animation=fadeIn&type=waving&color=gradient&height=120"/>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;Phoenix+AZ+Developer;Full+Stack+Engineer)]()
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00D4AA&size=32&center=true&vCenter=true&width=1000&height=80&lines=Senior+Full+Stack+Developer;Tokyo+Japan+Based;Full+Stack+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
-## 👋 Hi there! I'm Juri Miyazawa
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="400" alt="Developer GIF"/>
+</div>
 
-**Senior Full Stack Developer** based in Tokyo, Japan 🗾
+<div align="center">
+  
+# 👋 Hello, I'm Juri Miyazawa
 
-Passionate about creating scalable web applications and delivering exceptional user experiences. With expertise spanning the entire development stack, I bring ideas to life through clean code and innovative solutions.
+### 🚀 Senior Full Stack Developer | Tokyo, Japan 🗾
 
-🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/juri-miyazawa-phoenix1201/) | 📧 **Email:** [email protected]
+<img src="https://img.shields.io/badge/Location-Tokyo%2C%20Japan-blue?style=for-the-badge&logo=location&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Status-Available%20for%20Work-green?style=for-the-badge&logo=status&logoColor=white" alt="Status" />
+<img src="https://img.shields.io/badge/Experience-10%2B%20Years-orange?style=for-the-badge&logo=experience&logoColor=white" alt="Experience" />
+
+</div>
+
+<div align="center">
+  
+**Passionate about creating scalable web applications and delivering exceptional user experiences.**  
+*With expertise spanning the entire development stack, I bring ideas to life through clean code and innovative solutions.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juri-miyazawa-phoenix1201/)
+
+</div>
 
 ---
 
-## 🚀 Skills
+## 🛠️ Technical Skills
 
-- 🌱 Frontend : React, Next, Web3.js, Angular, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
-- 🔭 Backend : NodeJs, GoLang, CI, Laravel, Django, Flask, Express, Nestjs, PHP,
-- 📲 Mobile: Android(Kotlin,Java), React Native, Ionic, Flutter
-- 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AES Lambda, Spring Cloud, Amazon Web Service
-- 💬 Language : HTML, CSS, Javascript, Typescript, Python, ,Rust, Ruby on Rails, PHP, C++, C#, Go, Java, Kotlin
-- 🔥 CMS: WordPress, Shopify, Wix, Framer, Webflow
+<div align="center">
+
+### 🎨 Frontend Development
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
+### ⚙️ Backend Development
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+
+### 📱 Mobile Development
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+
+### 🗄️ Databases & Cloud
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+
+</div>
 
 ## 💼 Professional Experience
 
-### 🎯 Current Focus
-- **Full Stack Development** with modern JavaScript frameworks
-- **Cloud Architecture** and microservices implementation
-- **Team Leadership** and mentoring junior developers
-- **Performance Optimization** and scalability solutions
+<div align="center">
+
+### 🎯 Current Focus Areas
+
+| **Development** | **Architecture** | **Leadership** | **Optimization** |
+|:---:|:---:|:---:|:---:|
+| 🚀 Full Stack Development | ☁️ Cloud Architecture | 👥 Team Leadership | ⚡ Performance Optimization |
+| Modern JavaScript Frameworks | Microservices Implementation | Mentoring Junior Developers | Scalability Solutions |
+
+</div>
+
+---
 
 ### 🏆 Key Achievements
-- Led development of high-traffic e-commerce platforms serving 100K+ users
-- Implemented microservices architecture reducing system downtime by 40%
-- Mentored 15+ junior developers in modern web development practices
-- Optimized database queries resulting in 25% faster load times
 
-### 🌟 What I Bring to the Table
-- **10+ years** of full-stack development experience
-- **Proven track record** of delivering complex projects on time
-- **Strong communication skills** for cross-functional collaboration
-- **Continuous learning mindset** staying current with latest technologies
+<div align="center">
+
+| **Metric** | **Achievement** | **Impact** |
+|:---:|:---:|:---:|
+| 👥 **Team Size** | Led development teams of 5+ developers | Delivered complex projects on time |
+| 🌐 **User Scale** | Built platforms serving 100K+ users | High-traffic e-commerce solutions |
+| ⏱️ **Performance** | 25% faster load times | Optimized database queries |
+| 🔧 **Reliability** | 40% reduction in downtime | Microservices architecture |
+| 🎓 **Mentoring** | Trained 15+ junior developers | Modern web development practices |
+
+</div>
+
+---
+
+### 🌟 Professional Strengths
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Experience-10%2B%20Years-blue?style=for-the-badge&logo=experience&logoColor=white" alt="Experience" />
+<img src="https://img.shields.io/badge/Delivery-Proven%20Track%20Record-green?style=for-the-badge&logo=delivery&logoColor=white" alt="Delivery" />
+<img src="https://img.shields.io/badge/Communication-Cross%20Functional-purple?style=for-the-badge&logo=communication&logoColor=white" alt="Communication" />
+<img src="https://img.shields.io/badge/Learning-Continuous%20Growth-orange?style=for-the-badge&logo=learning&logoColor=white" alt="Learning" />
+
+</div>
 
 <!-- ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -215,20 +281,36 @@ Passionate about creating scalable web applications and delivering exceptional u
 </table>
 
 
-## 🚀 Recent Projects & Contributions
+## 🚀 Featured Projects & Contributions
 
-I'm passionate about building innovative solutions and contributing to open source projects. Here are some highlights of my recent work:
+<div align="center">
 
-### 💡 Featured Projects
-- **E-commerce Platform**: Built a scalable full-stack application serving 100K+ users
-- **Real-time Chat Application**: Developed with Vue.js and Django, improving user engagement by 30%
-- **Microservices Architecture**: Implemented cloud-native solutions reducing system downtime by 40%
-- **Performance Optimization**: Achieved 25% faster load times through database query optimization
+### 💡 Recent Project Highlights
+
+</div>
+
+<div align="center">
+
+| **Project** | **Technology Stack** | **Impact** | **Key Features** |
+|:---:|:---:|:---:|:---:|
+| 🛒 **E-commerce Platform** | React, Node.js, MongoDB | 100K+ users served | Scalable architecture, real-time updates |
+| 💬 **Chat Application** | Vue.js, Django, WebSocket | 30% engagement boost | Real-time messaging, user management |
+| ☁️ **Microservices System** | Docker, AWS, Go | 40% downtime reduction | Cloud-native, fault-tolerant design |
+| ⚡ **Performance Optimization** | Database tuning, caching | 25% faster load times | Query optimization, CDN integration |
+
+</div>
+
+---
+
+<div align="center">
 
 ### 🌟 Open Source Contributions
-- Active contributor to various JavaScript and Python projects
-- Maintainer of several utility libraries
-- Regular participant in hackathons and coding challenges
+
+<img src="https://img.shields.io/badge/Contributions-Active%20Open%20Source-green?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
+<img src="https://img.shields.io/badge/Libraries-Maintainer%20of%20Utilities-blue?style=for-the-badge&logo=library&logoColor=white" alt="Libraries" />
+<img src="https://img.shields.io/badge/Hackathons-Regular%20Participant-purple?style=for-the-badge&logo=hackathon&logoColor=white" alt="Hackathons" />
+
+</div>
 
 <!-- ## Tools -->
 <!-- <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -284,21 +366,55 @@ I'm passionate about building innovative solutions and contributing to open sour
 
 ## 🤝 Let's Connect!
 
-I'm always excited to collaborate on interesting projects and connect with fellow developers. Whether you're looking for a full-stack developer for your next project or just want to chat about technology, I'd love to hear from you!
+<div align="center">
 
-### 📬 Get in Touch
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/juri-miyazawa-phoenix1201/)
-- **Email:** [email protected]
-- **Location:** Tokyo, Japan 🗾
+### 💬 I'm always excited to collaborate on interesting projects!
 
-### 🚀 Currently Available For
-- **Full-time opportunities** in Tokyo or remote
-- **Consulting projects** and freelance work
-- **Open source contributions**
-- **Technical mentoring** and code reviews
+*Whether you're looking for a full-stack developer for your next project or just want to chat about technology, I'd love to hear from you!*
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<div align="center">
+
+### 📬 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juri-miyazawa-phoenix1201/)
+[![Location](https://img.shields.io/badge/Location-Tokyo%2C%20Japan-red?style=for-the-badge&logo=location&logoColor=white)](https://www.google.com/maps/place/Tokyo,+Japan)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Currently Available For
+
+| **Opportunity Type** | **Availability** | **Location** |
+|:---:|:---:|:---:|
+| 💼 **Full-time Positions** | ✅ Available | Tokyo or Remote |
+| 🛠️ **Consulting Projects** | ✅ Available | Flexible |
+| 🌟 **Open Source** | ✅ Active | Global |
+| 🎓 **Technical Mentoring** | ✅ Available | Remote |
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Why Work With Me?
+
+<img src="https://img.shields.io/badge/Experience-10%2B%20Years-blue?style=for-the-badge&logo=experience&logoColor=white" alt="Experience" />
+<img src="https://img.shields.io/badge/Quality-Clean%20Code-green?style=for-the-badge&logo=quality&logoColor=white" alt="Quality" />
+<img src="https://img.shields.io/badge/Communication-Excellent-purple?style=for-the-badge&logo=communication&logoColor=white" alt="Communication" />
+<img src="https://img.shields.io/badge/Innovation-Cutting%20Edge-orange?style=for-the-badge&logo=innovation&logoColor=white" alt="Innovation" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
