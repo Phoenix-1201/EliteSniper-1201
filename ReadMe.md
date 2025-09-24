@@ -216,46 +216,45 @@ Passionate about creating scalable web applications and delivering exceptional u
 
 
 ## 📊 GitHub Analytics & Projects
-<b>⚡ My Development Activity</b>
-    <br />
-    <!-- <p align="center">
-        <a href="https://github.com/BigStar-2024?tab=repositories">
-            <img width="54%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BigStar-2024&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-            <img width="45%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BigStar-2024&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
-        </a>
-    </p> -->
-    <p>
+
+### ⚡ My Development Activity
+
+<p align="center">
   <a href="https://github.com/BigStar-2024" target="_blank" rel="noopener noreferrer">
     <img
       height="180em"
-      src="https://satoshj-readme-state.vercel.app/api?username=BigStar-2024&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
-      alt='github-stats'
+      src="https://github-readme-stats.vercel.app/api?username=BigStar-2024&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF"
+      alt="GitHub Stats"
     />
     <img
       height="180em"
-      src="https://satoshj-readme-state.vercel.app/api/top-langs?username=BigStar-2024&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
-      alt='github-stats-toplangs'
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigStar-2024&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF"
+      alt="Top Languages"
     />
   </a>
 </p>
 
-</p>
+### ☄️ GitHub Streaks
 
-<b>☄️ Github Streaks</b>
-  
-  <br />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=BigStar-2024&theme=gotham&hide_border=true" />
-
-
-<b>📊 Total Contribution Graph</b>
-
-</br>
 <p align="center">
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=BigStar-2024&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=BigStar-2024&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
+  <img 
+    height="150em" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=BigStar-2024&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF" 
+    alt="GitHub Streak Stats"
+  />
 </p>
-<!-- activity graph bigstar-app end -->
+
+### 📊 Total Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/BigStar-2024" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=BigStar-2024&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" 
+      width="95%" 
+      alt="Activity Graph"
+    />
+  </a>
+</p>
 
 <!-- ## Tools -->
 <!-- <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
