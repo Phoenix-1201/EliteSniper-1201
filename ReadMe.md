@@ -1,10 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Tech_Solutions&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Juri+Miyazawa&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Software+Engineer)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;Phoenix+AZ+Developer;Full+Stack+Engineer)]()
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
-## Skills
+
+## 👋 Hi there! I'm Juri Miyazawa
+
+**Senior Full Stack Developer** based in Tokyo, Japan 🗾
+
+Passionate about creating scalable web applications and delivering exceptional user experiences. With expertise spanning the entire development stack, I bring ideas to life through clean code and innovative solutions.
+
+🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/juri-miyazawa-phoenix1201/) | 📧 **Email:** [email protected]
+
+---
+
+## 🚀 Skills
 
 - 🌱 Frontend : React, Next, Web3.js, Angular, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
 - 🔭 Backend : NodeJs, GoLang, CI, Laravel, Django, Flask, Express, Nestjs, PHP,
@@ -12,7 +23,27 @@
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AES Lambda, Spring Cloud, Amazon Web Service
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, ,Rust, Ruby on Rails, PHP, C++, C#, Go, Java, Kotlin
 - 🔥 CMS: WordPress, Shopify, Wix, Framer, Webflow
-  
+
+## 💼 Professional Experience
+
+### 🎯 Current Focus
+- **Full Stack Development** with modern JavaScript frameworks
+- **Cloud Architecture** and microservices implementation
+- **Team Leadership** and mentoring junior developers
+- **Performance Optimization** and scalability solutions
+
+### 🏆 Key Achievements
+- Led development of high-traffic e-commerce platforms serving 100K+ users
+- Implemented microservices architecture reducing system downtime by 40%
+- Mentored 15+ junior developers in modern web development practices
+- Optimized database queries resulting in 25% faster load times
+
+### 🌟 What I Bring to the Table
+- **10+ years** of full-stack development experience
+- **Proven track record** of delivering complex projects on time
+- **Strong communication skills** for cross-functional collaboration
+- **Continuous learning mindset** staying current with latest technologies
+
 <!-- ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=Clojure)
@@ -184,8 +215,8 @@
 </table>
 
 
-### PROJECTS AND DEV STUFF
-<b>⚡ Github Stats</b>
+## 📊 GitHub Analytics & Projects
+<b>⚡ My Development Activity</b>
     <br />
     <!-- <p align="center">
         <a href="https://github.com/BigStar-2024?tab=repositories">
@@ -273,4 +304,27 @@
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always excited to collaborate on interesting projects and connect with fellow developers. Whether you're looking for a full-stack developer for your next project or just want to chat about technology, I'd love to hear from you!
+
+### 📬 Get in Touch
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/juri-miyazawa-phoenix1201/)
+- **Email:** [email protected]
+- **Location:** Tokyo, Japan 🗾
+
+### 🚀 Currently Available For
+- **Full-time opportunities** in Tokyo or remote
+- **Consulting projects** and freelance work
+- **Open source contributions**
+- **Technical mentoring** and code reviews
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
