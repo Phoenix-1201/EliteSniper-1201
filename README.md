@@ -14,7 +14,6 @@
   
 ### 🚀 Senior Full Stack Developer
 
-<img src="https://img.shields.io/badge/Location-Tokyo%2C%20Japan-blue?style=for-the-badge&logo=location&logoColor=white" alt="Location" />
 <img src="https://img.shields.io/badge/Status-Available%20for%20Work-green?style=for-the-badge&logo=status&logoColor=white" alt="Status" />
 <img src="https://img.shields.io/badge/Experience-10%2B%20Years-orange?style=for-the-badge&logo=experience&logoColor=white" alt="Experience" />
 
@@ -372,14 +371,6 @@
 
 ---
 
-<div align="center">
-
-### 📬 Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juri-miyazawa-phoenix1201/)
-[![Location](https://img.shields.io/badge/Location-Tokyo%2C%20Japan-red?style=for-the-badge&logo=location&logoColor=white)](https://www.google.com/maps/place/Tokyo,+Japan)
-
-</div>
 
 ---
 
@@ -389,7 +380,7 @@
 
 | **Opportunity Type** | **Availability** | **Location** |
 |:---:|:---:|:---:|
-| 💼 **Full-time Positions** | ✅ Available | Tokyo or Remote |
+| 💼 **Full-time Positions** | ✅ Available | Remote |
 | 🛠️ **Consulting Projects** | ✅ Available | Flexible |
 | 🌟 **Open Source** | ✅ Active | Global |
 | 🎓 **Technical Mentoring** | ✅ Available | Remote |
