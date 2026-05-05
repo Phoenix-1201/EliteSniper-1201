@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Juri+Miyazawa&animation=fadeIn&type=waving&color=gradient&height=120"/>
+  <img src="https://capsule-render.vercel.app/api?text=Phoenix&animation=fadeIn&type=waving&color=gradient&height=120"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00D4AA&size=32&center=true&vCenter=true&width=1000&height=80&lines=Senior+Full+Stack+Developer;Tokyo+Japan+Based;Full+Stack+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00D4AA&size=32&center=true&vCenter=true&width=1000&height=80&lines=Senior+Full+Stack+Developer;Full+Stack+Engineer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
