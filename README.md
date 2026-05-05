@@ -12,9 +12,7 @@
 
 <div align="center">
   
-# 👋 Hello, I'm Juri Miyazawa
-
-### 🚀 Senior Full Stack Developer | Tokyo, Japan 🗾
+### 🚀 Senior Full Stack Developer
 
 <img src="https://img.shields.io/badge/Location-Tokyo%2C%20Japan-blue?style=for-the-badge&logo=location&logoColor=white" alt="Location" />
 <img src="https://img.shields.io/badge/Status-Available%20for%20Work-green?style=for-the-badge&logo=status&logoColor=white" alt="Status" />
@@ -26,8 +24,6 @@
   
 **Passionate about creating scalable web applications and delivering exceptional user experiences.**  
 *With expertise spanning the entire development stack, I bring ideas to life through clean code and innovative solutions.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juri-miyazawa-phoenix1201/)
 
 </div>
 
